@@ -27,33 +27,21 @@ params:
     facebook: "#"
     twitter: "#"
 
-  location:
-    - "3891 Ranchview Dr. Richardson, California 62639"
-    - "4517 Washington Ave. Manchester, Kentucky 39495"
+  # location:
+  #   - "3891 Ranchview Dr. Richardson, California 62639"
+  #   - "4517 Washington Ave. Manchester, Kentucky 39495"
 
-  contact:
-    - "trungkienspktnd@gamail.com"
-    - "207.555.0119"
+  # contact:
+  #   - "trungkienspktnd@gamail.com"
+  #   - "207.555.0119"
 
-  copyright: "© 2022 Up Business All Rights Reserved"
+  copyright: "Copyright © Cyber by the Sea LLC 2022"
 
 menus:
   main:
     - name: "Home"
       url: "/#hero"
       weight: 1
-
-    - name: "How we work"
-      url: "/#"
-      weight: 2
-
-    - name: "Our team"
-      url: "/#"
-      weight: 3
-
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
 
     - name: "Blog"
       url: "/blog"
