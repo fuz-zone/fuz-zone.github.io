@@ -1,0 +1,3 @@
+baseURL = 'https://fuz.zone/'
+languageCode = 'en-us'
+theme = 'up-business-theme'
